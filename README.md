@@ -14,4 +14,4 @@ The key feature of this app is all transactions can be done when offline. The ap
 
 Data can be visualized using chart in the front end.
 
-[Deployed Site](https://frozen-river-80711.herokuapp.com/)
+[Click Here For Deployed App On Heroku](https://frozen-river-80711.herokuapp.com/)
