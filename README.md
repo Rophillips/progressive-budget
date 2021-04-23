@@ -13,5 +13,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 The key feature of this app is all transactions can be done when offline. The app updates the database when back online.
 
 Data can be visualized using chart in the front end.
+![image](https://user-images.githubusercontent.com/74886597/115908521-46548480-a438-11eb-9903-6e52bd9f3148.png)
 
-[Click Here For Deployed App On Heroku](https://frozen-river-80711.herokuapp.com/)
+
+[Deployed Site](https://frozen-river-80711.herokuapp.com/)
