@@ -16,4 +16,4 @@ Data can be visualized using chart in the front end.
 ![image](https://user-images.githubusercontent.com/74886597/115908521-46548480-a438-11eb-9903-6e52bd9f3148.png)
 
 
-[Deployed Site](https://frozen-river-80711.herokuapp.com/)
+[Click Here For Deployed App On Heroku Site](https://frozen-river-80711.herokuapp.com/)
